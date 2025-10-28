@@ -5,7 +5,7 @@ This Python-based project runs smoothly in **Jupyter Notebook** and produces cle
 
 ---
 
-## Features  
+## ✨ Features  
 ✅ Generate QR codes for any website link  
 ✅ Embed a custom logo at the center (maintains full scannability)  
 ✅ Automatically adjusts logo size for perfect balance  
@@ -14,7 +14,7 @@ This Python-based project runs smoothly in **Jupyter Notebook** and produces cle
 
 ---
 
-## How It Works  
+## 🧠 How It Works  
 1. Enter your target website link.  
 2. The script generates a QR code with a white background.  
 3. Your logo (from `Logo.jpg`) is added automatically to the center.  
@@ -22,7 +22,7 @@ This Python-based project runs smoothly in **Jupyter Notebook** and produces cle
 
 ---
 
-## Getting Started  
+## ▶️ Getting Started  
 
 ### 1. Clone this repository  
 ```bash
