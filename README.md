@@ -31,7 +31,9 @@ cd qr-generator-from-link
 ```
 
 ### 2. Install dependencies
-pip install qrcode pillow
+```bash
+!pip install qrcode pillow
+```
 
 ### 3. Add your logo
 Place your logo file in the same folder as the notebook and rename it to: Logo.jpg
@@ -44,13 +46,15 @@ Type any URL (e.g., https://www.example.com) when prompted, and your QR code wil
 
 ---
 ## 📂 Project Structure
+
+```text
 qr-generator-from-link/
 │
 ├── generate_qr_with_logo.ipynb     # Main notebook
-├── Logo.jpg                        # Logo saved in jpg format
+├── Logo.jpg                        # Logo saved in JPG format
 ├── qr_with_logo.png                # Generated QR code (output)
 └── README.md                       # Project documentation
-
+```
 ## 🛠 Tech Stack
 Python 3.x
 qrcode – for QR code generation
